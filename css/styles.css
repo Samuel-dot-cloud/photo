@@ -2,16 +2,25 @@
     float: left;
     width: 350px;
     font-family: 'Times New Roman', Times, serif;
-    color: red;
+    color: lawngreen;
+    border: 2px saddlebrown;
+    padding: 6px;
+    margin: 20px;
+    background-color: maroon;
+    display: -ms-inline-flexbox;
 }
 
 .img {
     float: left;
 }
 
-.main {
-    width: 30%;
-    float: unset;
-    font-style: italic;
+.desk {
     color: yellow;
+    font-style: oblique;
+    background-color: peru;
+    border-bottom: 30px;
+    border-top: 30px;
+    border-left: 50px;
+    border-right: 50px;
+    padding: 10px;
 }
