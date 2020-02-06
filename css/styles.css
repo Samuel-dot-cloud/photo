@@ -1,0 +1,17 @@
+.sidebar {
+    float: left;
+    width: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.img {
+    float: left;
+}
+
+.main {
+    width: 30%;
+    float: unset;
+    font-style: italic;
+    color: yellow;
+}
